@@ -4,4 +4,4 @@ numpy
 py-sudoku
 beautifulsoup4
 bs4
-tkinter
+tk
