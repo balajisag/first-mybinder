@@ -2,3 +2,5 @@ pandas
 matplotlib
 numpy
 py-sudoku
+beautifulsoup4
+bs4
